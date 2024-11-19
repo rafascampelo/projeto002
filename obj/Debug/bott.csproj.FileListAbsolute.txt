@@ -1,0 +1,9 @@
+E:\bott\bott\bott\bin\Debug\bott.exe.config
+E:\bott\bott\bott\bin\Debug\bott.exe
+E:\bott\bott\bott\bin\Debug\bott.pdb
+E:\bott\bott\bott\obj\Debug\bott.Form1.resources
+E:\bott\bott\bott\obj\Debug\bott.Properties.Resources.resources
+E:\bott\bott\bott\obj\Debug\bott.csproj.GenerateResource.cache
+E:\bott\bott\bott\obj\Debug\bott.csproj.CoreCompileInputs.cache
+E:\bott\bott\bott\obj\Debug\bott.exe
+E:\bott\bott\bott\obj\Debug\bott.pdb
